@@ -1,5 +1,5 @@
 {
-  "name": "lal-aUserbot",
+  "ame": "lala-userbot",
   "description": "[lala-Userbot] This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.",
   "stack": "container",
   "env": {
