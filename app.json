@@ -10,13 +10,13 @@
     "API_HASH": {
       "description": "Dapatkan API Hash di web my.telegram.org",
       "required": true
-    },
+    
    
- 
 
-    }
 
-    },
+    
+
+   
      "STRING_SESSION": {
       "description": "Dapatkan String Session di bot »» @stringqbot
       "required": true
@@ -34,7 +34,7 @@
       "value": "Isi id grup mu wajib dengan awalan -100",
       "required": true
     }
-  },
+  
   "addons": [
     {
     "plan": "heroku-postgresql",
