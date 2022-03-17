@@ -1,6 +1,6 @@
-# lala-Userbot 
+# lala-userbot 
 
-lala-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+lala-userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
